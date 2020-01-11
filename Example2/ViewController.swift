@@ -25,14 +25,14 @@ class ViewController: UIViewController {
 
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-           
+           /*
            if(segue.identifier == "inputsegue"){
                
              //  let nextVC = segue.destination as? inputViewController
                // nextVC!.delegate = self as? GetDataprotocol
                
            }else if(segue.identifier == "collectphotosegue"){
-           }
+           }*/
        }
     
     @IBAction func Toinput(_ sender: Any) {
